@@ -4,14 +4,7 @@
 
 **🔗 Live Demo:** [https://ni15raj.github.io/Todo-App](https://ni15raj.github.io/Todo-App)
 
----
 
-## 📸 Preview
-
-![To-Do App Screenshot](https://via.placeholder.com/800x400?text=To-Do+App+Preview)
-<!-- Replace with an actual screenshot if available -->
-
----
 
 ## ✨ Features
 
