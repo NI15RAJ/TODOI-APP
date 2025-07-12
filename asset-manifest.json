@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TODOI-APP/static/css/main.867bd50d.css",
+    "main.js": "/TODOI-APP/static/js/main.f3d026e3.js",
+    "static/js/453.f6a3b6e2.chunk.js": "/TODOI-APP/static/js/453.f6a3b6e2.chunk.js",
+    "index.html": "/TODOI-APP/index.html",
+    "main.867bd50d.css.map": "/TODOI-APP/static/css/main.867bd50d.css.map",
+    "main.f3d026e3.js.map": "/TODOI-APP/static/js/main.f3d026e3.js.map",
+    "453.f6a3b6e2.chunk.js.map": "/TODOI-APP/static/js/453.f6a3b6e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.867bd50d.css",
+    "static/js/main.f3d026e3.js"
+  ]
+}
