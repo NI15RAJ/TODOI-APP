@@ -2,7 +2,7 @@
 
 > A minimal and responsive To-Do List web app to help you stay productive and organized.
 
-**🔗 Live Demo:** [https://ni15raj.github.io/Todo-App](https://ni15raj.github.io/Todo-App)
+**🔗 Live Demo:** [https://ni15raj.github.io/TODOI-APP/](https://ni15raj.github.io/TODOI-APP/)
 
 
 
